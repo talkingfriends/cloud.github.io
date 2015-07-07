@@ -1,0 +1,15 @@
+Package: com.exile90.icleanerpro_v7.4.4_iphoneos-arm
+Version: 7.4.4k
+Architecture: iphoneos-arm
+Maintainer: Ivano Bilenchi <support@ib-soft.net>
+Depends: <bundleids>
+Filename: debs//com.exile90.icleanerpro_v7.4.4_iphoneos-arm.deb
+Size: 2550756
+MD5sum: A3760AC5F111EBCC939A5D7B747F8E9B
+SHA1: A3760AC5F111EBCC939A5D7B747F8E9B
+SHA256: DA390FFC70C74625537F1CC249FDD15C451CB56BA9E3676BC9B503ABADE2AC67
+Section: Utilities
+Description: The ultimate iPhone, iPod, and iPad system optimizer! It removes unnessasary files from your device, and allows you to tweak it to your liking.
+Author: Ivano Bilenchi
+Depiction: http://decimation.github.io/Depic/<depicfoldername>/index.html
+Name: iCleaner Pro
