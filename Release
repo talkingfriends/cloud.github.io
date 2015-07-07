@@ -1,0 +1,9 @@
+Origin: Cloud repo
+Label: The official repo.
+Suite: stable
+Version: 1.0
+Codename: Cloud
+Architectures: iphoneos-arm
+Components: main
+Description: Find some packages here. Some packages are mirrored here.
+MD5Sum:
